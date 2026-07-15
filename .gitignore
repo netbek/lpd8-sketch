@@ -1,0 +1,6 @@
+.devenv*
+.direnv
+.env
+*.orig
+devenv.local.nix
+node_modules

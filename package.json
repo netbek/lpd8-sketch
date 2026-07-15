@@ -1,0 +1,11 @@
+{
+  "name": "lpd8-sketch",
+  "version": "0.0.1",
+  "private": true,
+  "repository": "github:netbek/lpd8-sketch",
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {
+    "p5": "2.3.0"
+  }
+}
